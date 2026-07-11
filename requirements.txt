@@ -1,13 +1,10 @@
 streamlit
 langchain
-langchain-community
 langchain-core
+langchain-community
 langchain-google-genai
 langchain-huggingface
-faiss-cpu
 sentence-transformers
+faiss-cpu
 pypdf
 python-dotenv
-pandas
-numpy
-Pillow
